@@ -1,0 +1,22 @@
+{
+  "wheel_id": 714,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-102",
+  "project": "earthmoving-services-adelaide-questions-to-ask-e3b883fb1960a7c1",
+  "parent_t1_ref": "simplyearthworks-150",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving services adelaide questions to ask",
+  "intended_url": "https://aumedia.neocities.org/earthmoving-services-adelaide-questions-to-ask-e3b883fb1960a7c1/",
+  "tier": "T2",
+  "writeback_nonce": "23b6ce4b8e8367f4",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-services-adelaide-a1ea655284c28ca771b8f59ac3db66b0b/",
+      "anchor": "a guide to earthmoving services adelaide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
